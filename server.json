@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": "d8f5",
+      "category": "Venda",
+      "description": "Desenvolvimento de app",
+      "price": 1000,
+      "type": "income",
+      "createdAtt": "2024-12-04T15:22:50.081Z"
+    },
+    {
+      "id": "ab32",
+      "category": "Venda",
+      "description": "Desenvolvimento de site",
+      "price": 2000,
+      "type": "income",
+      "createdAtt": "2024-12-04T15:23:04.676Z"
+    },
+    {
+      "id": "38ae",
+      "category": "Alimentação",
+      "description": "hamburguer",
+      "price": 50,
+      "type": "outcome",
+      "createdAtt": "2024-12-04T15:23:18.424Z"
+    }
+  ]
+}
